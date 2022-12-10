@@ -1,0 +1,358 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Raleway:wght@100&display=swap');
+
+
+.signmain {
+    width: 240px;
+    height: 20px;
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 30px;
+}
+
+.signature {
+    position: relative;
+}
+
+
+.signuptargeting {
+    position: absolute;
+
+    top: 48px;
+}
+
+
+
+
+.mainsign {
+
+
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.mainsign1 {
+    width: 20px;
+    height: 20px;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), rgba(239, 92, 75, 0.8);
+    border-radius: 100px;
+
+}
+
+.mainsign2 {
+    width: 20px;
+    height: 20px;
+    background: #C0C0C0;
+    border-radius: 100px;
+}
+
+.mainmiddle {
+    width: 159px;
+    height: 0px;
+
+
+    margin-top: 9px;
+    border: 1px solid #C0C0C0;
+}
+
+.signflex {
+    margin-top: 20px;
+    display: flex;
+    column-gap: 30px;
+    justify-content: space-between;
+
+}
+
+
+
+
+
+.signature {
+    width: calc(100vw - 496px);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #E5E5E5;
+    font-family: 'Inter', sans-serif;
+
+
+
+}
+
+.sidebires {
+    width: 496px;
+    height: 100vh;
+    background: #F9F8F7;
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.2);
+}
+
+
+
+main {
+    display: flex;
+}
+
+.signaturebox {
+    width: 552px;
+    height: 832px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.1);
+    border-radius: 30px;
+
+
+
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+
+.header-box {
+    display: flex;
+
+    margin-bottom: 43px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.form-header {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 91px;
+    font-family: 'Inter', sans-serif;
+
+}
+
+
+input {
+    width: 424px;
+    height: 54px;
+    padding-left: 24px;
+
+
+
+}
+
+.form {
+    display: flex;
+    align-items: center;
+
+}
+
+.formflex {
+    margin-left: 64px;
+
+}
+
+.select {
+    width: 424px;
+    height: 54px;
+}
+
+
+.cheakboxflex {
+    display: flex;
+    margin-left: 10px;
+}
+
+.cheakbox {
+    width: 22px;
+    height: 22px;
+    margin-top: 5px;
+}
+
+
+button {
+    width: 370px;
+    height: 64px;
+    background: linear-gradient(270deg, #C23584 0%, #E2306C 24.48%, #F77736 83.85%, #FA963E 100%);
+    border-radius: 32px;
+}
+
+.inputdate {
+    width: 282px;
+    height: 54px;
+
+}
+
+.inputCCV {
+    width: 95px;
+    height: 53px;
+    margin-left: 22px;
+}
+
+.inputflex1 {
+    display: flex;
+}
+
+.select1 {
+    width: 282px;
+    height: 54px;
+    margin-right: 23px;
+    border-radius: 7px;
+    border: 1px solid;
+    font-family: 'Inter', sans-serif;
+}
+
+.zipflex {
+    width: 100px;
+    height: 54px;
+    margin-left: 23px;
+}
+
+input {
+    margin-bottom: 27px;
+    border-radius: 7px;
+    border: 1px solid;
+
+}
+
+
+.signaturepi {
+    width: 370px;
+    height: 64px;
+    color: #E1306C;
+    padding-left: 160px;
+    font-weight: 700;
+    font-size: 18px;
+
+}
+
+.divpi {
+    margin-top: 1px;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+span {
+    text-decoration: underline;
+    color: #E1306C;
+}
+
+.buttonboxflex {
+    padding-left: 45px;
+}
+
+.signaturepiflex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.rellative {
+    position: relative;
+}
+
+
+.absoloute {
+    position: absolute;
+    padding-left: 410px;
+    padding-top: 20px;
+
+
+}
+
+/*   sidebar */
+
+
+.sidebires {
+    font-family: 'Inter', sans-serif;
+}
+
+.sidebireh3 {
+    width: 262px;
+    height: 43.11px;
+    margin-left: 117px;
+    margin-bottom: 15px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 48px;
+
+}
+
+
+
+.sidebarstar {
+    margin-left: 173px;
+    margin-bottom: 28px;
+}
+
+
+.sidebarbox1 {
+    display: flex;
+    margin-bottom: 53px;
+}
+
+.sidebarp1 {
+    width: 174px;
+    height: 22px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    margin-left: 95px;
+}
+
+.avatar1 {
+    margin-left: 218px;
+}
+
+.sidebarp2 {
+    width: 237px;
+    height: 29px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 32px;
+    margin-left: 160px;
+    color: #313131;
+    margin-bottom: 13px;
+
+}
+
+
+.sidebarp3 {
+    width: 363px;
+    height: 91px;
+    margin-left: 67px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.avatar2 {
+    margin-left: 218px;
+}
+
+
+.sidebarp4 {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 32px;
+    margin-left: 73px;
+}
+
+.sidebarp5 {
+    width: 343px;
+    height: 91px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    margin-left: 76px;
+}
+
+.sidebarlogo {
+    display: flex;
+    margin-top: 46px;
+    margin-left: 85.6px;
+    column-gap: 36px;
+}
+
+.slideimige {
+    margin-top: 47px;
+}
